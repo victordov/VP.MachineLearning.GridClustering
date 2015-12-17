@@ -1,6 +1,5 @@
-
 public abstract class Database {
 
-	abstract public InputData loadData(String connectionString) throws ApplicationException;
-	
+    abstract public InputData loadData(String connectionString) throws ApplicationException;
+
 }
